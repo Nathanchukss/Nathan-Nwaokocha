@@ -25,4 +25,4 @@ Website: A simple personal website used to connect users with me, built using Ht
 
 Fun Fact
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-I am passionate about using tech to solve unique challenges and provide security, and I'm a fast learner who is always eager to learn new things and share knowledge with like-minded developers!
+I am passionate about using tech to solve unique challenges and provide security, and I'm a fast learner who is always eager to learn new things and share knowledge with like-minded individuals!
