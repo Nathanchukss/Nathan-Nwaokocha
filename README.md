@@ -1,3 +1,5 @@
+👋🏽 Hi,I'm Chukwudi Nathan Nwaokocha 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 I am a Computer Science Honors student at Georgia State University. 
 
 👀 My Interests
