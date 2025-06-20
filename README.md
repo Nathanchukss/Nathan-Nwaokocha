@@ -9,14 +9,12 @@ Machine Learning: Currently exploring machine learning to expand my technical to
 🌟 Current Projects In Progress
 
 Website: A simple personal website used to connect users with me, built using Html, CSS and JavaScript . Targeted for launch by Q4 this year.
-StockPop: A business platform aimed at empowering users with better stock management and business tools, planned for release by the end of the year.
-Pet Owners' App: A specialized app for pet owners, launching by the end of Q2 next year.
+
 🔧 Skills & Tools
 
-Programming Languages: Html, CSS, JavaScript
-Frameworks: N/A
-Web3 Tools: N/A
-Other Tools: N/A
+Programming Languages: Python, Java, Html, CSS, JavaScript
+Frameworks: Node.js, Tailwind, React
+Other Tools: Express.js, Git/GitHub
 
 API development projects with a focus on high performance and scalability.
 Blockchain-based applications addressing real-world challenges.
@@ -26,8 +24,8 @@ Open-source contributions that align with my areas of expertise.
 Email: chukwudinwaokocha@gmail.com
 LinkedIn: Nathan Nwaokocha
 GitHub: Nathanchukss
-X: @real_pygod
 Youtube: Nate_an007
+
 Fun Fact
 
 I am passionate about using tech to solve unique challenges and provide security, and I'm a fast learner who is always eager to learn new things and share knowledge with like-minded developers!
