@@ -9,7 +9,8 @@ I am a Computer Science Honors student at Georgia State University.
 
 🌟 Current Projects In Progress
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Website: A simple personal website used to connect users with me, built using Html, CSS and JavaScript . Targeted for launch by Q4 this year.
+- **Website:** A simple personal website used to connect users with me, built using Html, CSS and JavaScript .
+- Targeted for launch by Q4 this year.
 
 🔧 Skills & Tools
 --------------------------------------------------------------------------------------------------------------------------------------------------------
