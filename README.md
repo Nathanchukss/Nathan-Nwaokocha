@@ -23,6 +23,6 @@ Website: A simple personal website used to connect users with me, built using Ht
 - **GitHub:** [Nathanchukss](https://github.com/Nathanchukss)  
 - **YouTube:** [Nate_an007](https://www.youtube.com/@Nate_an007)
 
-Fun Fact
+⚽️ Fun Fact
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-I am passionate about using tech to solve unique challenges and provide security, and I'm a fast learner who is always eager to learn new things and share knowledge with like-minded individuals!
+I am passionate about soccer, using tech to solve unique challenges and to provide security. I'm also a fast learner who is always eager to learn new things and share knowledge with like-minded individuals!
