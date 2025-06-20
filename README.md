@@ -2,19 +2,19 @@ I am a Computer Science Honors student at Georgia State University.
 
 👀 My Interests
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Backend Development: Proficient in Python with hands-on experience using frameworks like Django and FastAPI 
-AI: Currently exploring AI to expand my technical toolkit for future projects.
-Machine Learning: Currently exploring machine learning to expand my technical toolkit for future projects.
+- **Backend Development:** Proficient in Python with hands-on experience using frameworks like Django and FastAPI 
+- **AI:** Currently exploring AI to expand my technical toolkit for future projects.
+- **Machine Learning:** Currently exploring machine learning to expand my technical toolkit for future projects.
 
 🌟 Current Projects In Progress
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Website: A simple personal website used to connect users with me, built using Html, CSS and JavaScript . Targeted for launch by Q4 this year.
 
 🔧 Skills & Tools
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Programming Languages: Python, Java, Html, CSS, JavaScript
-Frameworks: Node.js, Tailwind, React
-Other Tools: Express.js, Git/GitHub
+- **Programming Languages:** Python, Java, Html, CSS, JavaScript
+- **Frameworks:** Node.js, Tailwind, React
+- **Other Tools:** Express.js, Git/GitHub
 
 📫 How to Reach Me
 --------------------------------------------------------------------------------------------------------------------------------------------------------
