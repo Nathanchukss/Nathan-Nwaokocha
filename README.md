@@ -2,6 +2,7 @@ I am a Computer Science Honors student at Georgia State University.
 
 👀 My Interests
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+- **Cybersecurity**
 - **Backend Development:** Proficient in Python with hands-on experience using frameworks like Django and FastAPI 
 - **AI:** Currently exploring AI to expand my technical toolkit for future projects.
 - **Machine Learning:** Currently exploring machine learning to expand my technical toolkit for future projects.
