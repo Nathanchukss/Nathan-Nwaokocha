@@ -22,7 +22,8 @@ I am a Computer Science Honors student at Georgia State University.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Email:** chukwudinwaokocha@gmail.com  
 - **LinkedIn:** [Nathan Nwaokocha](https://www.linkedin.com/in/YOUR-LINK)  
-- **GitHub:** [Nathanchukss](https://github.com/Nathanchukss)  
+- **GitHub:** [Nathanchukss](https://github.com/Nathanchukss)
+- **IG:** [nathan_chuks](https://www.instagram.com/nathan_chuks)  
 - **YouTube:** [Nate_an007](https://www.youtube.com/@Nate_an007)
 
 ⚽️ Fun Fact
