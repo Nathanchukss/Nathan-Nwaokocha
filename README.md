@@ -18,10 +18,10 @@ Other Tools: Express.js, Git/GitHub
 
 📫 How to Reach Me
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Email: chukwudinwaokocha@gmail.com
-LinkedIn: Nathan Nwaokocha
-GitHub: Nathanchukss
-Youtube: Nate_an007
+- **Email:** chukwudinwaokocha@gmail.com  
+- **LinkedIn:** [Nathan Nwaokocha](https://www.linkedin.com/in/YOUR-LINK)  
+- **GitHub:** [Nathanchukss](https://github.com/Nathanchukss)  
+- **YouTube:** [Nate_an007](https://www.youtube.com/@Nate_an007)
 
 Fun Fact
 --------------------------------------------------------------------------------------------------------------------------------------------------------
